@@ -1,2 +1,3 @@
-# super-knowledge-base-7vqk
-Automated issue comment bot repository
+# Super Knowledge Base 7Vqk
+
+Automated issue comment bot repository.
